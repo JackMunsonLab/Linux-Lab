@@ -1,3 +1,13 @@
-# Linux-Lab
+# Linux Lab Portfolio
 
-This repo stores my CIS-165 Linux lab work.
+## Purpose
+This repository stores my Linux class lab files and GitHub practice.
+
+## Skills Practiced
+- Linux terminal commands
+- Git add, commit, push, and pull
+- Markdown documentation
+- Evidence collection
+
+## Author
+Jack Munson
